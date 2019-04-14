@@ -6,7 +6,6 @@
 
 1) R syntax is very similar to S, easy for S-PLUS to switch over
 
-
 2) R is technically much similar to Scheme language
 
 3) R is open source
@@ -81,7 +80,7 @@ CRAN also hosts many add-on packages to extend the functionality of R.
 
 3) There are also "**Recommended**" packages : *boot, class, cluster, codetools, foreign, kernSmooth, lattice, mgcv, nlme, rpart, survival, MASS, spatial, nnet, Matrix*
 
-4) There are over 4000 packages in CRAN that have been developer by users and programmers around the world
+4) There are over 4000 packages in CRAN that have been developer by users and programmers around the world.
 
 
 
