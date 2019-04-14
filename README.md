@@ -5,6 +5,8 @@
 ###  Basic Features of R
 
 1) R syntax is very similar to S, easy for S-PLUS to switch over
+
+
 2) R is technically much similar to Scheme language
 3) R is open source
 4) R has frequent releases
