@@ -1,4 +1,4 @@
- {#keywords-and-identifiers}
+ # keywords-and-identifiers
 
     {\color{incolor}In [{\color{incolor}6}]:} \PY{k+kn}{import} \PY{n+nn}{keyword}
             
@@ -101,7 +101,7 @@ as **doc**
 
         
 
- {#var-datatypes}
+ # var-datatypes
 
     {\color{incolor}In [{\color{incolor}33}]:} \PY{n}{a} \PY{o}{=} \PY{l+m+mi}{10}
              \PY{n+nb}{print}\PY{p}{(}\PY{n+nb}{type}\PY{p}{(}\PY{n}{a}\PY{p}{)}\PY{p}{)}
@@ -140,7 +140,7 @@ as **doc**
 
         
 
- {#data-types}
+ # data-types
 
 1.  Everything is an object in python:
 
